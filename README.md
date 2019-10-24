@@ -17,7 +17,7 @@ is currently under development and is currently not guaranteed to work with any 
 ## Background
 
 Sdu works with JSON schemas and often has to work with representations of JSON structures (that obey a particular
-schema) in Scala code. This applications allows one to easily generate the required case-class or Sangria model to be
+schema) in Scala code. This application allows one to easily generate the required case-class or Sangria model to be
 used in Scala applications.
 
 ## Install
